@@ -2,6 +2,14 @@
     text-align: center;
 }
 
+h1, h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p, li, figcaption {
+    font-family: 'Open Sans', sans-serif;
+}
+
 img {
     max-width: 432px;
     display: block;
