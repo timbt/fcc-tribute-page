@@ -8,3 +8,8 @@ img {
     height: auto;
     margin: auto;
 }
+
+#tribute-info, #further-reading {
+    max-width: 720px;
+    margin: auto;
+}
