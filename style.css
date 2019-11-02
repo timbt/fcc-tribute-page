@@ -9,6 +9,11 @@ img {
     margin: auto;
 }
 
+figcaption {
+    max-width: 432px;
+    margin: auto;
+}
+
 #tribute-info, #further-reading {
     max-width: 720px;
     margin: auto;
