@@ -41,7 +41,7 @@ h2 {
     margin-top: 0;
 }
 
-p, li, figcaption {
+p, li, figcaption, footer {
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -70,4 +70,10 @@ figcaption {
 ul {
     padding: 0;
     list-style-type: none;
+}
+
+footer {
+    font-size: 0.75em;
+    padding: 0.5em;
+    background-color: var(--footer-bg-color);
 }
