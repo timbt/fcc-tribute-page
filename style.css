@@ -1,6 +1,13 @@
+:root {
+    --text-color: #141F26;
+    --intro-bg-color:  #F2F2F2;
+    --main-bg-color: #7EAED9;
+    --footer-bg-color: #3C6AA6;
+}
+
 body {
-    color: #141F26;
-    background-color: #f2f2f2;
+    color: var(--text-color);
+    background-color: var(--intro-bg-color);
     margin: 0;
 }
 
@@ -35,7 +42,7 @@ figcaption {
 }
 
 #main-text-container {
-    background-color: #7EAED9;
+    background-color: var(--main-bg-color);
 }
 
 #tribute-info, #further-reading {
