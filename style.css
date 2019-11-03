@@ -11,6 +11,7 @@ p, li, figcaption {
 }
 
 img {
+    width: 100%;
     max-width: 432px;
     display: block;
     height: auto;
